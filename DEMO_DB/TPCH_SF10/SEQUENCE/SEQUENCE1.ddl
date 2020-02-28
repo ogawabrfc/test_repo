@@ -1,0 +1,1 @@
+create or replace sequence SEQUENCE1 start with 1 increment by 1;
